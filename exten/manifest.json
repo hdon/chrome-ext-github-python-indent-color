@@ -1,7 +1,7 @@
 {
   "name": "Github Python Indent Color",
   "description": "Color-assisted indentation-level distinction for viewing Python code on Github",
-  "version": "0.0",
+  "version": "0.1",
   "permissions": [
     "https://github.com/*"
   ],
